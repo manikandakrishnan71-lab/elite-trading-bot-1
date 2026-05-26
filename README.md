@@ -1,2 +1,1 @@
-# elite-trading-bot-1
-Jjsjsjsk
+# elite-trading-bot
